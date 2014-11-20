@@ -1,5 +1,7 @@
 # Rotten Tweetoes
 
+[![CircleCI](https://circleci.com/gh/tannerhodges/tweetoes.png?style=badge)](https://circleci.com/gh/tannerhodges/tweetoes)
+
 Originally a final project for UCF's Rapid App course, this app is designed to integrate two REST APIs: Rotten Tomatoes and Twitter. The effect is a fun, little social display of current movies. 
 
 Ideas for improvement listed below:
