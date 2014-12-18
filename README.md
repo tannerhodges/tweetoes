@@ -57,3 +57,9 @@ UI
 * Add movie search
 * Add Twitter functions to tweets (e.g, retweet, favorite)
 * Link to for nearby theaters (Fandango?)
+
+TODO: Move all this ^^^ into GitHub issues. Then use
+[waffle.io](http://waffle.io) to make it fancy.
+
+[![Throughput Graph](https://graphs.waffle.io/tannerhodges/tweetoes/throughput.svg)](https://waffle.io/tannerhodges/tweetoes/metrics)
+
